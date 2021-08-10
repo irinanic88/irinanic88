@@ -14,7 +14,7 @@
 
 :fist_right::fist_left: I am currently looking for a Junior Front-end position to learn and work on real-life projects constantly interacting with a team.
 
-:mountain_bicyclist: I love learning new things, reading, old cinema, yoga, hiking and dancing.
+:mountain_bicyclist: I love learning new things, reading, old movies, yoga, hiking and dancing.
 
 ### Contact me:
 
