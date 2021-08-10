@@ -26,5 +26,9 @@
 
 ### Tech tools:
 
-<img src="https://i.ibb.co/7t0bPsR/Tech-Tools.png" alt="Javascript, HTML, CSS, React, Jest">
+<a href="https://www.w3schools.com/js/js_es6.asp"><img src="https://i.ibb.co/HCSXQ1T/JS-small.png" alt="JavaScript"></a>
+<a href="https://html.spec.whatwg.org/"><img src="https://i.ibb.co/KLd8ZJb/html-small.png" alt="HTML5"></a>
+<a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://i.ibb.co/KW4rgLm/css-small.png" alt="CSS"></a>
+<a href="https://reactjs.org/"><img src="https://i.ibb.co/F5DgLTX/react-small.png" alt="React"></a>
+<a href="https://jestjs.io/"><img src="https://i.ibb.co/NxRm7kp/jest-small.png" alt="Jest"></a>
 
