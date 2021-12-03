@@ -5,7 +5,7 @@
 :octopus: I am interested in everything connected to:
  - webpage design and structure
  - user experience optimization
- - cross-browser and responsive design
+ - cross-browser, adaptive design
  - code automation
  - HTTP requests
  - fixing bugs and testing
