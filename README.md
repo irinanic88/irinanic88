@@ -10,7 +10,7 @@
  - HTTP requests
  - fixing bugs and testing
 
-:fist_right::fist_left: I am currently looking for a Junior Front-end position to learn and work on real-life projects constantly interacting with a team.
+:fist_right::fist_left: I am currently looking for a Front-end position to learn and work on real-life projects constantly interacting with a team.
 
 :dancers: I am looking forward to meet people whose passion is Web-programming, those who are making their first steps in it as well as experienced developers ready to share their knowledge.
 
